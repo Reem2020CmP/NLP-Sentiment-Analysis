@@ -29,16 +29,41 @@ This project performs sentiment analysis using Natural Language Processing (NLP)
 - Matplotlib
 
 ---
-
 ## Dataset
 
-Briefly describe the dataset used.
+The dataset contains customer reviews and feedback collected from multiple platforms, including Google Play, Apple Store, and Trustpilot. It consists of 10,574 text-based entries, where each record includes user feedback along with metadata such as industry category and sentiment-related labels.
 
-Example:
+The dataset is used for Natural Language Processing (NLP) tasks, including text preprocessing, sentiment classification, and identifying customer opinions across different industries.
 
-"This project uses a labelled sentiment dataset containing positive and negative text samples."
+### Dataset Features
 
----
+| Column | Description |
+|--------|-------------|
+| id | Unique identifier for each review |
+| text | User-generated review or feedback text |
+| labels | Sentiment and topic-related classification labels |
+| org_index | Identifier associated with the organization/company |
+| industry | Industry category of the reviewed organization |
+| data_source | Platform where the review was collected |
+
+### Data Sources
+
+The reviews were collected from:
+- Google Play
+- Apple Store
+- Trustpilot
+
+### Industries Covered
+
+The dataset includes feedback from various industries, including:
+- Fashion
+- Price Comparison
+- Groceries
+- Trading
+- Travel Booking
+
+The dataset was used to train and evaluate NLP models for classifying customer feedback and extracting insights from user-generated text.
+
 
 ## Methodology
 
