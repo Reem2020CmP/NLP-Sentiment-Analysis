@@ -1,0 +1,328 @@
+[
+  {
+    "timestamp": "2026-06-22 22:12:02",
+    "text": "i hate this app and this staff",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.95,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.9458788633346558,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 22:10:21",
+    "text": "i hate this app and staff member",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.97,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.9737067222595215,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:57:23",
+    "text": "I liked the services but they cost more than what i afford.",
+    "overall_sentiment": "NEUTRAL",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.9231221079826355,
+        "kind": "positive"
+      },
+      {
+        "name": "Discounts & Promotions",
+        "sentiment": "Negative",
+        "confidence": 0.6767675876617432,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:57:11",
+    "text": "I liked the services but they cost a lot.",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.89,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.8872740268707275,
+        "kind": "positive"
+      },
+      {
+        "name": "Discounts & Promotions",
+        "sentiment": "Mixed",
+        "confidence": 0.6465681195259094,
+        "kind": "mixed",
+        "positive_pct": 46.9,
+        "negative_pct": 64.7
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:56:52",
+    "text": "I liked the services but they were too costly.",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.9,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.897655725479126,
+        "kind": "positive"
+      },
+      {
+        "name": "Discounts & Promotions",
+        "sentiment": "Mixed",
+        "confidence": 0.6929404139518738,
+        "kind": "mixed",
+        "positive_pct": 39.2,
+        "negative_pct": 69.3
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:56:41",
+    "text": "I liked the services but they were too pricey.",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.82,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.8240537047386169,
+        "kind": "positive"
+      },
+      {
+        "name": "Discounts & Promotions",
+        "sentiment": "Mixed",
+        "confidence": 0.6873921751976013,
+        "kind": "mixed",
+        "positive_pct": 45.6,
+        "negative_pct": 68.7
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:56:14",
+    "text": "I didn't like the staff but the app is so good",
+    "overall_sentiment": "NEUTRAL",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Positive",
+        "confidence": 0.9220170378684998,
+        "kind": "positive"
+      },
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Negative",
+        "confidence": 0.42937758564949036,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:56:09",
+    "text": "I didn't like the staff, but the app is so good",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.93,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Mixed",
+        "confidence": 0.9311061501502991,
+        "kind": "mixed",
+        "positive_pct": 93.1,
+        "negative_pct": 26.8
+      },
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Negative",
+        "confidence": 0.4229421019554138,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:55:56",
+    "text": "I didn't like the staff, but the app is good",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.88,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Mixed",
+        "confidence": 0.8849417567253113,
+        "kind": "mixed",
+        "positive_pct": 88.5,
+        "negative_pct": 33.7
+      },
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Negative",
+        "confidence": 0.41316649317741394,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:49:09",
+    "text": "I didn't like the services, but the app is good.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.98,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Positive",
+        "confidence": 0.9829480051994324,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:48:44",
+    "text": "The staff were good and i didn't like the services.",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.42,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Mixed",
+        "confidence": 0.42309772968292236,
+        "kind": "mixed",
+        "positive_pct": 42.3,
+        "negative_pct": 33.6
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:48:22",
+    "text": "The staff were good but i didn't like the services.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.49,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.49235206842422485,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:42:33",
+    "text": "the serices were pricey",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "Discounts & Promotions",
+        "sentiment": "Negative",
+        "confidence": 0.9218302965164185,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:39:33",
+    "text": "the app was good but the staff were rude",
+    "overall_sentiment": "NEUTRAL",
+    "overall_confidence": 0.72,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Positive",
+        "confidence": 0.724978506565094,
+        "kind": "positive"
+      },
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Negative",
+        "confidence": 0.6015504002571106,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:39:20",
+    "text": "The staff were so good but i didn't like the serices",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.71,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.7130308151245117,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:39:18",
+    "text": "The staff were so good but i didn't like the serices",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.71,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.7130308151245117,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:39:06",
+    "text": "The staff were so good but the pricing is too much",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.94,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9434176087379456,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:38:59",
+    "text": "The staff were so good but the pricing is so high",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.94,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9406407475471497,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 19:38:17",
+    "text": "The staff were so good",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.95,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9469591379165649,
+        "kind": "positive"
+      }
+    ]
+  }
+]
